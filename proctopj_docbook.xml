@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://docbook.org/xml/4.5/docbookx.dtd">
+<book>
+    <bookinfo>
+        <title>XML Homework</title>
+        <author>
+            <firstname>Patrick</firstname>
+            <surname>Proctor</surname>
+        </author>
+    </bookinfo>
+    <part>
+        <title>Above Are the Title and Author</title>
+        <chapter>
+            <title>Three uses of XML</title>
+            <sect1>
+                <title>Portability</title>
+                <para>We use XML as a way to send information in a universal, simple format which
+                    can be transfered between many platforms and many applications.</para>
+            </sect1>
+            <sect1>
+                <title>Documentation</title>
+                <para>We use XML to mark-up text, or document what internal phrases are so anyone can parse the information when they know the format.</para>
+            </sect1>
+            <sect1>
+                <title>Web Development</title>
+                <para>Using XML to hold a document allows one to edit the display of the document in a web page independently of the actual data as long as the XML specs/format are adhered to.</para>
+            </sect1>
+        </chapter>
+    </part>
+</book>
